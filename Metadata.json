@@ -1,7 +1,7 @@
 {
     "Author": "Azure Automation Product Team",
     "ContentSize": 4638,
-    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/allows-only-one-instance-of-a-runbook-job-to-run-at-any-one-time./master/Set-RunbookLock.ps1",
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/allows-only-one-instance-of-a-runbook-job-to-run-at-any-one-time/master/Set-RunbookLock.ps1",
     "DownloadCount": 908,
     "Id": "Allows-only-one-instance-40b6cd58",
     "IsFederated": true,
@@ -15,6 +15,6 @@
     "Summary": "This runbook ensures that only one instance of a runbook is running at any one time. It is meant to be called from another runbook as an inline runbook, not started asynchronously through the web service. Please look at the Set-RunbookLockSample runbook for example usage.",
     "Title": "Allows only one instance of a runbook job to run at any one time.",
     "UpdatedDate": "2014-12-22T00:00:00",
-    "Url": "https://github.com/azureautomation/allows-only-one-instance-of-a-runbook-job-to-run-at-any-one-time.",
+    "Url": "https://github.com/azureautomation/allows-only-one-instance-of-a-runbook-job-to-run-at-any-one-time",
     "UserTags": "Utility"
 }
